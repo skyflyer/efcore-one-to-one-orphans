@@ -1,0 +1,5 @@
+bin/
+obj/
+/.vscode
+db.sqlite3
+test.db
